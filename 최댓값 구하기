@@ -27,5 +27,5 @@ A403564	Dog	2013-11-18 17:03:00	Normal	Anna	Spayed Female
 본 문제는 Kaggle의 "Austin Animal Center Shelter Intakes and Outcomes"에서 제공하는 데이터를 사용하였으며 ODbL의 적용을 받습니다.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+//최대값 max 이용해 
 SELECT max(DATETIME) from ANIMAL_INS;  
